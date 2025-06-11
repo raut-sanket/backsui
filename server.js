@@ -13,6 +13,7 @@ app.use(
   cors({
     origin: [
       "https://presale.suidex.org",
+      "https://testing.suidex.org",
       "http://localhost:5173",
       "http://localhost:3000",
       "http://localhost:3001",
